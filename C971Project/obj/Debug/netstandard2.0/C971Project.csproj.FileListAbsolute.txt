@@ -1,0 +1,13 @@
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\bin\Debug\netstandard2.0\C971Project.deps.json
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\bin\Debug\netstandard2.0\C971Project.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\bin\Debug\netstandard2.0\ref\C971Project.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\bin\Debug\netstandard2.0\C971Project.pdb
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.csproj.CoreCompileInputs.cache
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.AssemblyInfoInputs.cache
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.AssemblyInfo.cs
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\ref\C971Project.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.pdb
