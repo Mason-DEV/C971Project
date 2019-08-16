@@ -9,6 +9,7 @@
     <ContentPage.Content>
         <StackLayout>
             <Image Source="MainLogo.png"></Image>
+            <BoxView BackgroundColor="Black" HorizontalOptions="Fill" HeightRequest="1"></BoxView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

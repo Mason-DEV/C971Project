@@ -8,7 +8,7 @@
              Title="Menu Page">
     <ContentPage.Content>
         <StackLayout>
-            <ListView  x:Name="menuListView" RowHeight="40">
+            <ListView  x:Name="menuListView" RowHeight="40" SeparatorVisibility="Default" SelectedItem="{Binding Source=x:Reference, }">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

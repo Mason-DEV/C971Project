@@ -971,13 +971,13 @@ int drawable abc_textfield_search_default_mtrl_alpha 0x7f020051
 int drawable abc_textfield_search_material 0x7f020052
 int drawable abc_vector_test 0x7f020053
 int drawable avd_hide_password 0x7f020054
-int drawable avd_hide_password_1 0x7f020137
-int drawable avd_hide_password_2 0x7f020138
-int drawable avd_hide_password_3 0x7f020139
+int drawable avd_hide_password_1 0x7f020139
+int drawable avd_hide_password_2 0x7f02013a
+int drawable avd_hide_password_3 0x7f02013b
 int drawable avd_show_password 0x7f020055
-int drawable avd_show_password_1 0x7f02013a
-int drawable avd_show_password_2 0x7f02013b
-int drawable avd_show_password_3 0x7f02013c
+int drawable avd_show_password_1 0x7f02013c
+int drawable avd_show_password_2 0x7f02013d
+int drawable avd_show_password_3 0x7f02013e
 int drawable design_bottom_navigation_item_background 0x7f020056
 int drawable design_fab_background 0x7f020057
 int drawable design_ic_visibility 0x7f020058
@@ -1197,12 +1197,14 @@ int drawable notification_bg_low_pressed 0x7f02012d
 int drawable notification_bg_normal 0x7f02012e
 int drawable notification_bg_normal_pressed 0x7f02012f
 int drawable notification_icon_background 0x7f020130
-int drawable notification_template_icon_bg 0x7f020135
-int drawable notification_template_icon_low_bg 0x7f020136
+int drawable notification_template_icon_bg 0x7f020137
+int drawable notification_template_icon_low_bg 0x7f020138
 int drawable notification_tile_bg 0x7f020131
 int drawable notify_panel_notification_icon_bg 0x7f020132
-int drawable tooltip_frame_dark 0x7f020133
-int drawable tooltip_frame_light 0x7f020134
+int drawable splashldpi 0x7f020133
+int drawable splashxxhdpi 0x7f020134
+int drawable tooltip_frame_dark 0x7f020135
+int drawable tooltip_frame_light 0x7f020136
 int id ALT 0x7f0a0039
 int id CTRL 0x7f0a003a
 int id FUNCTION 0x7f0a003b
@@ -1655,7 +1657,7 @@ int style Animation_AppCompat_Dialog 0x7f0d009a
 int style Animation_AppCompat_DropDownUp 0x7f0d009b
 int style Animation_AppCompat_Tooltip 0x7f0d009c
 int style Animation_Design_BottomSheetDialog 0x7f0d016d
-int style AppCompatDialogStyle 0x7f0d0201
+int style AppCompatDialogStyle 0x7f0d0202
 int style Base_AlertDialog_AppCompat 0x7f0d009d
 int style Base_AlertDialog_AppCompat_Light 0x7f0d009e
 int style Base_Animation_AppCompat_Dialog 0x7f0d009f
@@ -2163,6 +2165,7 @@ int style Widget_MaterialComponents_Toolbar 0x7f0d01f6
 int style Widget_MediaRouter_Light_MediaRouteButton 0x7f0d0009
 int style Widget_MediaRouter_MediaRouteButton 0x7f0d000a
 int style Widget_Support_CoordinatorLayout 0x7f0d01f7
+int style splashscreen 0x7f0d0201
 int[] styleable ActionBar { 0x7f010024, 0x7f010026, 0x7f010027, 0x7f010028, 0x7f010029, 0x7f01002a, 0x7f01002b, 0x7f01002c, 0x7f01002d, 0x7f01002e, 0x7f01002f, 0x7f010030, 0x7f010031, 0x7f010032, 0x7f010033, 0x7f010034, 0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003c, 0x7f01003d, 0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f01008b }
 int styleable ActionBar_background 10
 int styleable ActionBar_backgroundSplit 12

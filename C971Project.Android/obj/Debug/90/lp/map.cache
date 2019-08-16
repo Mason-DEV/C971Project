@@ -1,4 +1,3 @@
-C971Project
 FormsViewGroup
 System.Runtime
 Xamarin.Android.Arch.Core.Common
@@ -45,4 +44,5 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+C971Project
 netstandard

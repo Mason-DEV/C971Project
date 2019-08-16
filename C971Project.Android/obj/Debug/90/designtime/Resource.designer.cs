@@ -6395,6 +6395,12 @@ namespace C971Project.Droid
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
+			// aapt resource value: 0x7F010004
+			public const int splashldpi = 2130771972;
+			
+			// aapt resource value: 0x7F010005
+			public const int splashxxhdpi = 2130771973;
+			
 			// aapt resource value: 0x7F09006F
 			public const int tooltip_frame_dark = 2131296367;
 			
@@ -7749,8 +7755,8 @@ namespace C971Project.Droid
 			// aapt resource value: 0x7F160006
 			public const int Animation_Design_BottomSheetDialog = 2132148230;
 			
-			// aapt resource value: 0x7F060004
-			public const int AppCompatDialogStyle = 2131099652;
+			// aapt resource value: 0x7F060005
+			public const int AppCompatDialogStyle = 2131099653;
 			
 			// aapt resource value: 0x7F160007
 			public const int Base_AlertDialog_AppCompat = 2132148231;
@@ -8423,6 +8429,9 @@ namespace C971Project.Droid
 			
 			// aapt resource value: 0x7F1600E4
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2132148452;
+			
+			// aapt resource value: 0x7F060004
+			public const int splashscreen = 2131099652;
 			
 			// aapt resource value: 0x7F1600E5
 			public const int TextAppearance_AppCompat = 2132148453;

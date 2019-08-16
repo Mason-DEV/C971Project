@@ -7,10 +7,16 @@
              x:Class="C971Project.XAML.SettingsPage"
              Title="Settings">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Settings Page!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <TableView Intent="Settings">
+            <TableRoot>
+                <TableSection Title="Notifcation Settings">
+                    <SwitchCell Text="Notifcations" On="True"/>
+                    <SwitchCell Text="Create Test Notifcation" On="False" OnChanged="NotifcationToggle"/>
+                </TableSection>
+                <TableSection Title="Data Settings">
+                    <SwitchCell Text="Use Test Data" On="False"/>
+                </TableSection>
+            </TableRoot>
+        </TableView>
     </ContentPage.Content>
 </ContentPage>

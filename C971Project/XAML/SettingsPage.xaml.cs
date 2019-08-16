@@ -16,5 +16,11 @@ namespace C971Project.XAML
         {
             InitializeComponent();
         }
+
+        private void NotifcationToggle(object sender, ToggledEventArgs e)
+        {
+            DisplayAlert("Alert", "This Is Alert.", "OK");
+        }
+
     }
 }
