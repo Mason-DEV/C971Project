@@ -8,17 +8,19 @@
              Title="Menu Page">
     <ContentPage.Content>
         <StackLayout>
-            <ListView  x:Name="menuListView" RowHeight="40" SeparatorVisibility="Default" SelectedItem="{Binding Source=x:Reference, }">
+            <ListView  x:Name="menuListView" RowHeight="40" SeparatorVisibility="Default" SelectedItem="{Binding Source=x:Reference}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <ViewCell>
+                        <TextCell Text = "{Binding Name}" TextColor="Black">
+                        </TextCell>
+                        <!--<ViewCell>
                             <StackLayout Orientation="Horizontal" HorizontalOptions="Fill">
                                 <StackLayout Orientation="Vertical">
-                                    <Label Text = "{Binding Name}" FontSize="18" AbsoluteLayout.LayoutBounds="0.25, 0.25, 400, 40"/>
+                                    <Label Text = "{Binding Name}" FontSize="18"  VerticalOptions="Center" HorizontalOptions="CenterAndExpand"/>
                                 </StackLayout>
-                                <!--<Image Source="{Binding Image}" HorizontalOptions="End" AbsoluteLayout.LayoutBounds="250.25, 0.25, 50, 50 "/>-->
+                                --><!--<Image Source="{Binding Image}" HorizontalOptions="End" AbsoluteLayout.LayoutBounds="250.25, 0.25, 50, 50 "/>--><!--
                             </StackLayout>
-                        </ViewCell>
+                        </ViewCell>-->
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>

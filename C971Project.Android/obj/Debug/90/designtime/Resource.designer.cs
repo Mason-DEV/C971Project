@@ -26,6 +26,7 @@ namespace C971Project.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Plugin.LocalNotifications.Resource.Drawable.plugin_lc_smallicon = global::C971Project.Droid.Resource.Drawable.plugin_lc_smallicon;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::C971Project.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::C971Project.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::C971Project.Droid.Resource.Attribute.font;
@@ -6395,6 +6396,9 @@ namespace C971Project.Droid
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
+			// aapt resource value: 0x7F010006
+			public const int plugin_lc_smallicon = 2130771974;
+			
 			// aapt resource value: 0x7F010004
 			public const int splashldpi = 2130771972;
 			
@@ -7755,8 +7759,8 @@ namespace C971Project.Droid
 			// aapt resource value: 0x7F160006
 			public const int Animation_Design_BottomSheetDialog = 2132148230;
 			
-			// aapt resource value: 0x7F060005
-			public const int AppCompatDialogStyle = 2131099653;
+			// aapt resource value: 0x7F060006
+			public const int AppCompatDialogStyle = 2131099654;
 			
 			// aapt resource value: 0x7F160007
 			public const int Base_AlertDialog_AppCompat = 2132148231;
@@ -8331,6 +8335,9 @@ namespace C971Project.Droid
 			// aapt resource value: 0x7F1600C5
 			public const int CardView_Light = 2132148421;
 			
+			// aapt resource value: 0x7F060004
+			public const int CustomDarkTheme = 2131099652;
+			
 			// aapt resource value: 0x7F060002
 			public const int MainTheme = 2131099650;
 			
@@ -8430,8 +8437,8 @@ namespace C971Project.Droid
 			// aapt resource value: 0x7F1600E4
 			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2132148452;
 			
-			// aapt resource value: 0x7F060004
-			public const int splashscreen = 2131099652;
+			// aapt resource value: 0x7F060005
+			public const int splashscreen = 2131099653;
 			
 			// aapt resource value: 0x7F1600E5
 			public const int TextAppearance_AppCompat = 2132148453;

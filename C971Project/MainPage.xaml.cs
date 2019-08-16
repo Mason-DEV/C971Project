@@ -21,7 +21,8 @@ namespace C971Project
         {
             InitializeComponent();
             this.Master = new MenuPage();
-            this.Detail = new NavigationPage((Page)Activator.CreateInstance(typeof(HomePage)));
+            this.Detail = new NavigationPage(new HomePage());
+            //this.Detail = new NavigationPage((Page)Activator.CreateInstance(typeof(HomePage)));
 
         }
 
@@ -30,44 +31,32 @@ namespace C971Project
             switch (ID)
             {
                 case 1:
-                    PushPage(new HomePage());
-                    return;
+                    //PushPage(new HomePage());
+                    await ChangePage(new NavigationPage(new HomePage()));
+                    //this.Detail = new NavigationPage(new HomePage());
+                    break;
                 case 2:
                     //PushPage(new TermsPage());
-                    return;
+                    break;
                 case 3:
                     //PushPage(new CoursePage());
-                    return;
+                    break;
                 case 4:
                     //PushPage(new AssesmentsPage());
-                    return;
+                    break;
                 case 5:
-                    PushPage(new SettingsPage());
-                    return;
+                    //this.Detail = new NavigationPage(new SettingsPage());
+                    //PushPage(new SettingsPage());
+                    await ChangePage(new NavigationPage(new SettingsPage()));
+                    break;
             }
-
-            var newPage = new NavigationPage(new HomePage());
-            Detail = newPage;
-
-            if (Device.RuntimePlatform == Device.Android)
-                await Task.Delay(100);
-
             IsPresented = false;
         }
 
-        public async void PushPage(ContentPage page)
+        public Task ChangePage(NavigationPage page)
         {
-            //Before we push new page, make sure what we are pushing isnt current page
-            //Console.WriteLine("Detail = "+Detail.Title.ToString());
-            //Console.WriteLine("Page = "+Page.TitleProperty.ToString());
-            var detail = Application.Current.MainPage.Title;
-            Console.WriteLine("detail =" + detail);
-            await Detail.Navigation.PushAsync(page);
-
-            if (Device.RuntimePlatform == Device.Android)
-                await Task.Delay(100);
-
-            IsPresented = false;
+            this.Detail = page;
+            return Task.CompletedTask;
         }
     }
 }

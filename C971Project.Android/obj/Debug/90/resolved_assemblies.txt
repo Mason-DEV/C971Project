@@ -4,6 +4,8 @@ C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Java.Interop.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Plugin.LocalNotifications.Abstractions.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Plugin.LocalNotifications.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Core.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Numerics.dll
@@ -64,4 +66,5 @@ C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Runtime.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Mono.Security.dll

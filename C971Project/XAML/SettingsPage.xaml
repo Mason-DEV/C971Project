@@ -9,9 +9,12 @@
     <ContentPage.Content>
         <TableView Intent="Settings">
             <TableRoot>
+                <TableSection Title="General">
+                    <SwitchCell x:Name="themeToggle" Text="Dark Theme" On="False" OnChanged="ThemeToggle_OnChanged"/>
+                </TableSection>
                 <TableSection Title="Notifcation Settings">
-                    <SwitchCell Text="Notifcations" On="True"/>
-                    <SwitchCell Text="Create Test Notifcation" On="False" OnChanged="NotifcationToggle"/>
+                    <SwitchCell x:Name="notifcationToggle" Text="Notifcations" On="True" OnChanged="NotifcationToggle_OnChanged"/>
+                    <SwitchCell x:Name="testToggle" Text="Create Test Notifcation" On="False" OnChanged="NotifcationToggle"/>
                 </TableSection>
                 <TableSection Title="Data Settings">
                     <SwitchCell Text="Use Test Data" On="False"/>
