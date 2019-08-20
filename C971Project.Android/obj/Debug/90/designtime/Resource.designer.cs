@@ -4495,6 +4495,9 @@ namespace C971Project.Droid
 			// aapt resource value: 0x7F050005
 			public const int colorAccent = 2131034117;
 			
+			// aapt resource value: 0x7F050006
+			public const int colorAccent2 = 2131034118;
+			
 			// aapt resource value: 0x7F050003
 			public const int colorPrimary = 2131034115;
 			
@@ -8336,7 +8339,7 @@ namespace C971Project.Droid
 			public const int CardView_Light = 2132148421;
 			
 			// aapt resource value: 0x7F060004
-			public const int CustomDarkTheme = 2131099652;
+			public const int DarkTheme = 2131099652;
 			
 			// aapt resource value: 0x7F060002
 			public const int MainTheme = 2131099650;

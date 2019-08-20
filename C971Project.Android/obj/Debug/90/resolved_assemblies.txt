@@ -6,6 +6,12 @@ C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\mscorlib.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Plugin.LocalNotifications.Abstractions.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Plugin.LocalNotifications.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_green.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Core.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Numerics.dll
@@ -67,4 +73,14 @@ C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Web.Services.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\System.Globalization.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project.Android\obj\Debug\90\android\assets\Mono.Security.dll

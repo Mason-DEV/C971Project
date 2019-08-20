@@ -10,12 +10,11 @@ C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\ne
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.csproj.CoreCompileInputs.cache
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.AssemblyInfoInputs.cache
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.AssemblyInfo.cs
-C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\ref\C971Project.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.pdb
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\bin\Debug\netstandard2.0\Mono.Android.dll
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\bin\Debug\netstandard2.0\Mono.Android.pdb
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\bin\Debug\netstandard2.0\Mono.Android.xml
-C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.csprojAssemblyReference.cache
 C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\C971Project.csproj.CopyComplete
+C:\Users\Mason\Documents\GitHub\C971Project\C971Project\C971Project\obj\Debug\netstandard2.0\XamlC.stamp

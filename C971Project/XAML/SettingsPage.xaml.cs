@@ -48,6 +48,7 @@ namespace C971Project.XAML
                 notifcationToggle.On = (bool)Application.Current.Properties["notifcationsSetting"];
 
             }
+
         }
 
         private void NotifcationToggle_OnChanged(object sender, ToggledEventArgs e)
